@@ -1,0 +1,123 @@
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские" tvg-rec="48" catchup="default",O'zbekiston
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1001/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Yoshlar HD UZ.png" group-title="Узбекские" tvg-id="2645" tvg-rec="48" catchup="default",Yoshlar HD UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1002/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Toshkent UZ.png" group-title="Узбекские" tvg-id="7938" tvg-rec="48" catchup="default",Toshkent UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1003/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Sport UZ HD.png" group-title="Узбекские" tvg-id="2647" tvg-rec="48" catchup="default",Sport UZ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1004/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Dunyo bo`ylab UZ.png" group-title="Узбекские" tvg-id="2649" tvg-rec="48" catchup="default",Dunyo bo`ylab UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1006/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bolajon.png" group-title="Узбекские" tvg-id="1230" tvg-rec="48" catchup="default",Bolajon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1007/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Kinoteatr HD UZ.png" group-title="Узбекские" tvg-id="2652" tvg-rec="48" catchup="default",Kinoteatr HD UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1009/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские" tvg-rec="48" catchup="default",Futbol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1010/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/My5 UZ.png" group-title="Узбекские" tvg-id="7925" tvg-rec="48" catchup="default",My5 UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1012/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Mahalla UZ.png" group-title="Узбекские" tvg-id="7924" tvg-rec="48" catchup="default",Mahalla UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1013/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Milliy TV HD UZ.png" group-title="Узбекские" tvg-id="7926" tvg-rec="48" catchup="default",Milliy TV HD UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1014/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские" tvg-rec="48" catchup="default",Uzreport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1015/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Zo'r TV HD UZ.png" group-title="Узбекские" tvg-rec="48" catchup="default",Zo'r TV HD UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1016/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские" tvg-id="1237" tvg-rec="48" catchup="default",Sevimli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1017/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские" tvg-id="1237" tvg-rec="48" catchup="default",Sevimli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1056/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские" tvg-rec="48" catchup="default",IKBOL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1282/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские" tvg-rec="48" catchup="default",Isteklol TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1283/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские" tvg-id="69" tvg-rec="48" catchup="default",ntv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1284/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Taraqqiyot TV UZ.png" group-title="Узбекские" tvg-id="7936" tvg-rec="48" catchup="default",Taraqqiyot TV UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1204/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Aqlvoy TV UZ.png" group-title="Узбекские" tvg-id="7912" tvg-rec="48" catchup="default",Aqlvoy TV UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1205/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Dasturxon TV UZ.png" group-title="Узбекские" tvg-id="7917" tvg-rec="48" catchup="default",Dasturxon TV UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1206/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ozbekiston Tarixi HD UZ.png" group-title="Узбекские" tvg-id="7932" tvg-rec="48" catchup="default",Ozbekiston Tarixi HD UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1209/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские" tvg-rec="48" catchup="default",Lux TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1210/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Biz Cinema UZ.png" group-title="Узбекские" tvg-rec="48" catchup="default",Biz TV UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1211/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Biz Music HD UZ.png" group-title="Узбекские" tvg-id="7914" tvg-rec="48" catchup="default",Biz Music HD UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1212/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Biz Cinema UZ.png" group-title="Узбекские" tvg-id="7913" tvg-rec="48" catchup="default",Biz Cinema UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1213/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Milliy TV HD UZ.png" group-title="Узбекские" tvg-id="7926" tvg-rec="48" catchup="default",Milliy TV HD UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1216/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/My5 UZ.png" group-title="Узбекские" tvg-id="7925" tvg-rec="48" catchup="default",My5 UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1217/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nurafshon TV UZ.png" group-title="Узбекские" tvg-id="7930" tvg-rec="48" catchup="default",Nurafshon TV UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1220/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Renessans TV UZ.png" group-title="Узбекские" tvg-id="7933" tvg-rec="48" catchup="default",Renessans TV UZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1221/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские" tvg-rec="48" catchup="default",S Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001z.rafail1982.uz/1245/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские" tvg-rec="48" catchup="default",FARG'ONA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001a.rafail1982.uz/1458/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские" tvg-rec="48" catchup="default",XORAZM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001a.rafail1982.uz/1464/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские" tvg-rec="48" catchup="default",QARAQALPAQSTAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001a.rafail1982.uz/1467/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские" tvg-id="1054" tvg-rec="48" catchup="default",LIVE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001a.rafail1982.uz/1475/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские" tvg-rec="48" catchup="default",S MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001a.rafail1982.uz/1476/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские" tvg-rec="48" catchup="default",SEVIMLIJON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001a.rafail1982.uz/1477/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские" tvg-rec="48" catchup="default",TTV KINO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001a.rafail1982.uz/1486/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские" tvg-id="69" tvg-rec="48" catchup="default",TTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001a.rafail1982.uz/1494/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские" tvg-rec="48" catchup="default",MAKON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001a.rafail1982.uz/1497/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские" tvg-id="89" tvg-rec="48" catchup="default",CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://a001a.rafail1982.uz/1498/tracks-v1a1/mono.m3u8
