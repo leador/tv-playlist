@@ -92,9 +92,15 @@ http://a001z.rafail1982.uz/1221/tracks-v1a1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://a001z.rafail1982.uz/1245/tracks-v1a1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские" tvg-rec="48" catchup="default",Foreign Languages
+#EXTINF:-1 tvg-logo="http://iptv.galsmedia.uz/logo/ftvuz.jpg" group-title="Узбекские" tvg-rec="48" catchup="default",FTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://10.0.0.15:8080/ch07/tracks-a1/mono.ts.m3u8
+http://10.0.0.15:8080/ch101/tracks-a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.galsmedia.uz/logo/muzuz.png" group-title="Узбекские" tvg-rec="48" catchup="default",MuzTV Uzbekiston
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://10.0.0.15:8080/ch141/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://iptv.galsmedia.uz/logo/makontv.png" group-title="Узбекские" tvg-rec="48" catchup="default",Makon TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://10.0.0.15:8080/ch77/tracks-a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские" tvg-rec="48" catchup="default",FARG'ONA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
