@@ -91,6 +91,11 @@ http://a001z.rafail1982.uz/1221/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские" tvg-rec="48" catchup="default",S Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://a001z.rafail1982.uz/1245/tracks-v1a1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzbekistan.png" group-title="Узбекские" tvg-rec="48" catchup="default",Foreign Languages
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://10.0.0.15:8080/ch07/tracks-a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/uzb.png" group-title="Узбекские" tvg-rec="48" catchup="default",FARG'ONA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://a001a.rafail1982.uz/1458/tracks-v1a1/mono.m3u8
